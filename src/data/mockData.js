@@ -16,11 +16,11 @@ export const weeklyActivity = [
 ]
 
 export const languageData = [
-  { name: "JavaScript", value: 45, color: "#F7DF1E" },
-  { name: "TypeScript", value: 25, color: "#3178C6" },
-  { name: "Python",     value: 15, color: "#3776AB" },
-  { name: "CSS",        value: 10, color: "#264DE4" },
-  { name: "Other",      value: 5,  color: "#6B7280" },
+  { name: "JavaScript", value: 45, color: "#FFD700" },
+  { name: "TypeScript", value: 25, color: "#00CED1" },
+  { name: "Python",     value: 15, color: "#FF7F50" },
+  { name: "CSS",        value: 10, color: "#FF69B4" },
+  { name: "Other",      value: 5,  color: "#9CA3AF" },
 ]
 
 export const recentActivity = [
